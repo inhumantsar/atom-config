@@ -1,0 +1,17 @@
+"*":
+  "exception-reporting":
+    userId: "b401affa-2af1-89f8-2460-0735a0c8c7eb"
+  welcome:
+    showOnStartup: false
+  core:
+    {}
+  editor:
+    invisibles:
+      {}
+    fontSize: 13
+  "linter-puppet-lint":
+    oldVersion: false
+  linter:
+    showErrorPanel: false
+  "git-plus":
+    splitPane: "Down"
